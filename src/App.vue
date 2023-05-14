@@ -8,14 +8,12 @@ import BaseCard from "./components/BaseCard.vue";
   >
     <div class="max-w-5xl w-full">
       <BaseCard class="w-full">
-        <div class="relative h-full">
-          <div class="flex flex-col md:justify-center">
-            <h2 class="text-2xl font-medium text-white">Deploy Everywhere</h2>
+        <div class="relative h-full flex flex-col md:justify-center">
+          <h2 class="text-2xl font-medium text-white">Deploy Everywhere</h2>
 
-            <div class="mt-4 text-gray-400 md:w-1/2 md:text-lg">
-              Studio works on any hosting platform. <br />
-              Deploy on GitHub pages in one click.
-            </div>
+          <div class="mt-4 text-gray-400 md:w-1/2 md:text-lg">
+            Studio works on any hosting platform. <br />
+            Deploy on GitHub pages in one click.
           </div>
         </div>
 
